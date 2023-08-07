@@ -1,6 +1,6 @@
 <p align="center">
     Hi there :wave:
-    <br>I'm a Full-stack developer. 
+    <br>I'm a sofware engineer. 
     <br><br>Code Stats :point_down: </a>
   </samp>
    <br><br>
