@@ -8,7 +8,7 @@ Here something about me:
 
 #### Check my contributions 
 
-[![Rhuan Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhuancoder)](https://github.com/anuraghazra/github-readme-stats)
+[![Rhuan Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhuancoder&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rhuancoder)](https://github.com/rhuancoder)
