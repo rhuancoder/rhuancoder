@@ -10,6 +10,10 @@ Here something about me:
 
 [![Rhuan Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhuancoder&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Check the languages I use
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhuancoder&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rhuancoder)](https://github.com/rhuancoder)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhuancoder/)](https://www.linkedin.com/in/rhuancoder/)
