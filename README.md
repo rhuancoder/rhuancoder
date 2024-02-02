@@ -15,7 +15,7 @@ Here something about me:
 </div>
 
 #### Follow me on my social networks:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rhuancoder)](https://github.com/rhuancoder)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/rhuancoder)](https://github.com/rhuancoder)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rhuancoder/)](https://www.linkedin.com/in/rhuancoder/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-black?style=flat-square&labelColor=black&logo=x&logoColor=white&link=https://twitter.com/rhuancoder)](https://twitter.com/rhuancoder)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/rhuancoder/)](https://www.instagram.com/rhuancoder/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&labelColor=black&logo=x&logoColor=white&link=https://twitter.com/rhuancoder)](https://twitter.com/rhuancoder)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/rhuancoder/)](https://www.instagram.com/rhuancoder/)
