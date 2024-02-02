@@ -4,7 +4,7 @@ Here something about me:
 
 - 💻 I’m software engineer
 - ✉️ How to reach me: rhuancoder@gmail.com 
-- 🙍🏻‍♂️ Who am I: In my spare time you will see me coding, taking photos, reading or practicing martial arts, if you like any of these things or have a project I can help with, feel free to contact me!
+- 🙍🏻‍♂️ Who am I: In my spare time you will see me coding, playing MMORPGs, taking photos, reading or practicing martial arts, if you like any of these things or have a project I can help with, feel free to contact me!
  
 
 ---
