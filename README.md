@@ -6,12 +6,7 @@ Here something about me:
 
 ---
 
-#### Check my contributions 
-
 [![Rhuan Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhuancoder&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Check the languages I use
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhuancoder&theme=dark&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Follow me on my social networks:
