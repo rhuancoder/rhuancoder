@@ -6,8 +6,13 @@ Here something about me:
 
 ---
 
-[![Rhuan Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhuancoder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhuancoder&layout=compact&theme=tokyonight&langs_count=10&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/rhuancoder">
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rhuancoder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+ <a href="https://github.com/rhuancoder">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuancoder&layout=compact&theme=tokyonight&langs_count=10&card_width=250" />
+ </a>
+</div>
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rhuancoder)](https://github.com/rhuancoder)
