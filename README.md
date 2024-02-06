@@ -11,7 +11,7 @@ Here something about me:
 
 <div>
   <a href="https://github.com/rhuancoder">
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rhuancoder&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rhuancoder&show_icons=true&theme=vue-dark&include_all_commits=false&count_private=true" />
  <a href="https://github.com/rhuancoder">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuancoder&layout=compact&theme=vue-dark&langs_count=10&card_width=250" />
  </a>
