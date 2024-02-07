@@ -8,6 +8,8 @@ Here something about me:
  
 
 ---
+#### My tech stack:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,angular,vue,cs,dotnet,swift,azure,elasticsearch,rabbitmq,mongodb,mysql,git)](https://skillicons.dev)
 
 <div>
   <a href="https://github.com/rhuancoder">
