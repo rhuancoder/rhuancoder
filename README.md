@@ -26,3 +26,4 @@ Here something about me:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rhuancoder/)](https://www.linkedin.com/in/rhuancoder/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&labelColor=black&logo=x&logoColor=white&link=https://twitter.com/rhuancoder)](https://twitter.com/rhuancoder)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/rhuancoder/)](https://www.instagram.com/rhuancoder/)
+[![Instagram Badge](https://img.shields.io/badge/-Behance-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://behance.net/rhuancoder/)](https://behance.net/rhuancoder/)
