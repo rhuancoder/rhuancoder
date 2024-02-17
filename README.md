@@ -25,6 +25,6 @@ Here something about me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/rhuancoder)](https://github.com/rhuancoder)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rhuancoder/)](https://www.linkedin.com/in/rhuancoder/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/rhuancoder/)](https://www.instagram.com/rhuancoder/)
-[![Instagram Badge](https://img.shields.io/badge/-Behance-1769ff?style=for-the-badge&labelColor=1769ff&logo=behance&logoColor=white&link=https://behance.net/rhuancoder/)](https://behance.net/rhuancoder/)
-[![Instagram Badge](https://img.shields.io/badge/-TikTok-white?style=for-the-badge&labelColor=white&logo=tiktoke&logoColor=black&link=https://tiktok.com/@rhuancoder/)](https://tiktok.com/@rhuancoder/)
+[![Behance Badge](https://img.shields.io/badge/-Behance-1769ff?style=for-the-badge&labelColor=1769ff&logo=behance&logoColor=white&link=https://behance.net/rhuancoder/)](https://behance.net/rhuancoder/)
+[![Tiktok Badge](https://img.shields.io/badge/-TikTok-white?style=for-the-badge&labelColor=white&logo=tiktok&logoColor=black&link=https://tiktok.com/@rhuancoder/)](https://tiktok.com/@rhuancoder/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&labelColor=black&logo=x&logoColor=white&link=https://twitter.com/rhuancoder)](https://twitter.com/rhuancoder)
