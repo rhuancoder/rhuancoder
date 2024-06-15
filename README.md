@@ -11,7 +11,7 @@ Here something about me:
 
 ---
 #### My tech stack:
-[![My Skills](https://skillicons.dev/icons?i=swift,flutter,js,html,css,ts,angular,vue,cs,dotnet,azure,elasticsearch,rabbitmq,mongodb,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,flutter,cs,dotnet,angular,vue,azure,js,html,css,ts,elasticsearch,rabbitmq,mongodb,git)](https://skillicons.dev)
 
 <div>
   <a href="https://github.com/rhuancoder">
