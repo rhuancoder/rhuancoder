@@ -15,16 +15,16 @@ Here something about me:
 
 <div>
   <a href="https://github.com/rhuancoder">
-   <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhuancoder&theme=nord_bright" />
+   <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhuancoder&theme=default" />
   </a>
 </div>
     
 <div>
  <a href="https://github.com/rhuancoder">
-   <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rhuancoder&theme=nord_bright" />
+   <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rhuancoder&theme=default" />
  </a>
   <a href="https://github.com/rhuancoder">
-   <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rhuancoder&theme=nord_bright" />
+   <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rhuancoder&theme=default" />
  </a>
 </div>
 
