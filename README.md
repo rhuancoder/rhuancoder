@@ -15,7 +15,7 @@ Here something about me:
 
 <div>
   <a href="https://github.com/rhuancoder">
-   <img height=180 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhuancoder&theme=default" />
+   <img height=196 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhuancoder&theme=default" />
   </a>
 </div>
     
